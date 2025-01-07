@@ -21,3 +21,4 @@ resources/*.xcdatamodeld
 vendor
 site/
 Gemfile.lock
+build-log
